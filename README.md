@@ -1,6 +1,6 @@
-# Living World
+# Wildhearth
 
-A Fabric mod for **Minecraft Java 26.3**: seasons, rivers and weather that change the land, wild deer and boar, real farming, and livestock breeds with their own field guides.
+A cosy Fabric mod for **Minecraft Java 26.3**: seasons, rivers and weather that change the land; wild deer, boar, reindeer, porcupines, badgers, chipmunks and shy forest elves; real farming with seed saving, beekeeping and mead; livestock breeds; caves full of glow-worms, hot springs and goblins; folk festivals; and field guides for all of it.
 
 ## Download
 
@@ -18,7 +18,7 @@ Get the latest jar from [Releases](../../releases/latest).
 ## Install
 
 1. Run the Fabric installer, choose Minecraft 26.3, click Install.
-2. Put the Living World jar and the Fabric API jar in your `mods` folder:
+2. Put the Wildhearth jar and the Fabric API jar in your `mods` folder:
    - Windows: `%appdata%\.minecraft\mods`
    - Mac: `~/Library/Application Support/minecraft/mods`
    - Linux: `~/.minecraft/mods`
