@@ -2,6 +2,8 @@
 
 A cosy Fabric mod for **Minecraft Java 26.3**: seasons, rivers and weather that change the land; wild deer, boar, reindeer, porcupines, badgers, chipmunks and shy forest elves; real farming with seed saving, beekeeping and mead; livestock breeds; caves full of glow-worms, hot springs and goblins; folk festivals; and field guides for all of it.
 
+**[Read the Wildhearth wiki](https://luekg15-hue.github.io/living-world-releases/)**: every field guide page, creature, item and recipe.
+
 ## Download
 
 Get the latest jar from [Releases](../../releases/latest).
