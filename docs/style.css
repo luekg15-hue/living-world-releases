@@ -154,6 +154,10 @@ th{color:var(--soft);font-weight:500}table.sortable th{cursor:pointer;user-selec
 /* flora + almanac */
 .tree{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:20px;background:var(--paper);border:1px solid var(--line);border-radius:16px;overflow:hidden;margin:18px 0;box-shadow:var(--shadow)}
 .tree:nth-of-type(even){grid-template-columns:minmax(0,1fr) minmax(0,1.25fr)}.tree:nth-of-type(even) .treeshot{order:2}
+.crop3d{background:var(--paper);border:1px solid var(--line);border-radius:16px;overflow:hidden;margin:18px 0;box-shadow:var(--shadow)}.c3top{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr)}.c3top>img{width:100%;aspect-ratio:25/16;object-fit:cover;display:block;cursor:zoom-in}.c3info{padding:18px 22px}.c3info h2{margin-top:0}.c3low{display:grid;grid-template-columns:minmax(0,2.2fr) minmax(0,1fr);gap:12px;padding:4px 16px 8px}.crop3d:nth-of-type(even) .c3top{grid-template-columns:minmax(0,1fr) minmax(0,1.3fr)}.crop3d:nth-of-type(even) .c3top>img{order:2}@media(max-width:760px){.c3top,.crop3d:nth-of-type(even) .c3top,.c3low{grid-template-columns:1fr}.crop3d:nth-of-type(even) .c3top>img{order:0}}
+.stages{margin:10px 0 6px}.stages img{width:100%;border-radius:10px;display:block;cursor:zoom-in}.stages figcaption{color:var(--soft);font-size:.86rem;padding:3px 2px}
+.hero3d{margin:6px 0 18px}.hero3d img{width:100%;border-radius:16px;display:block;cursor:zoom-in;box-shadow:var(--shadow)}.hero3d figcaption{color:var(--soft);font-size:.92rem;padding:6px 2px}
+.jump{margin:6px 0 4px}
 .treeshot{width:100%;height:100%;min-height:240px;object-fit:cover;display:block;cursor:zoom-in}.treeinfo{padding:16px 20px 16px 4px}.tree:nth-of-type(even) .treeinfo{padding:16px 4px 16px 20px}
 .treeinfo h2{margin:.2em 0;display:flex;gap:10px;align-items:center}.more{margin:.4em 0 0}
 @media(max-width:760px){.tree,.tree:nth-of-type(even){grid-template-columns:1fr}.tree:nth-of-type(even) .treeshot{order:0}.treeinfo,.tree:nth-of-type(even) .treeinfo{padding:4px 16px 16px}}
